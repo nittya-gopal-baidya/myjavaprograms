@@ -1,0 +1,6 @@
+dynamic method dispatch 
+encapsulation
+polymorphism
+packages in java
+multithreading
+Exception handling
